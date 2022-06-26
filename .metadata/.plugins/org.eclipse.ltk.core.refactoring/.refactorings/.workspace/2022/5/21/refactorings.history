@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 7 resources" deleteContents="true" description="Delete 7 resources" element1="/in28minutes-mockito-example-business" element2="/in28minutes-mockito-example-business-api" element3="/in28minutes-mockito-example-business-impl" element4="/in28minutes-mockito-example-data" element5="/in28minutes-mockito-example-data-api" element6="/in28minutes-mockito-example-data-impl" element7="/in28minutes-mockito-example-model" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="7" stamp="1653044364769"/>
+</session>
